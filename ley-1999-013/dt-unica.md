@@ -1,0 +1,2 @@
+Disposición transitoria única.
+Se declara expresamente en vigor el Decreto 174/1997, de 11 de diciembre, modificado por el Decreto 92/1998, de 28 de mayo, por el que se crea el Consejo de Cooperación para el Desarrollo que deberá ser adaptado a lo dispuesto en la presente Ley en el plazo de un año desde su entrada en vigor, manteniendo hasta entonces su actual composición, sin perjuicio de las nuevas competencias que le atribuye esta Ley.
