@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Quedan derogadas cuantas normas de igual o inferior rango a la presente Ley prohíban o excluyan la posibilidad de constituir empresas bajo forma cooperativa, siempre que se trate de materias en las que la Comunidad de Madrid tenga competencia exclusiva o, teniéndola concurrente con el Estado, la prohibición o limitación mencionadas no deriven de una normativa estatal de carácter básico.
