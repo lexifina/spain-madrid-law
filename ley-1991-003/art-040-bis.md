@@ -1,0 +1,6 @@
+Artículo 40 bis.
+Los permisos para la realización de cualquier actividad en las zonas de dominio y de protección de las carreteras reguladas en el presente capítulo, sólo podrán ser concedidos por la Dirección General competente en materia de Carreteras cuando los interesados procedan a constituir la correspondiente garantía por una cuantía máxima de hasta el 100 por 100 del presupuesto del proyecto objeto del mencionado permiso.
+La garantía se constituirá en aquellos casos en que sea necesario para salvaguardar el uso adecuado de las carreteras o garantizar la seguridad vial, en los términos, casos, cuantía y procedimiento que reglamentariamente se establezca.
+Dicha garantía se constituirá con independencia de las tasas que, con carácter general, se devenguen por la obtención del permiso y sin perjuicio de las responsabilidades en que se hubiese podido incurrir por incumplimiento de las condiciones del permiso, de acuerdo con lo dispuesto en el capítulo VI de esta Ley.
+En el supuesto de que los interesados incumplieran las condiciones establecidas en el permiso concedido, la Dirección General competente en materia de Carreteras se incautará de la garantía, de acuerdo con el procedimiento que reglamentariamente se establezca.
+Se añade por el art. 23 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.

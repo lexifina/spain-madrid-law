@@ -2,7 +2,7 @@ Disposición adicional única. Homologación de entidades de inspección técnic
 1. La homologación y el registro de las entidades de inspección técnica a que se refiere esta Ley corresponderá a la Consejería competente en materia de ordenación urbanística.
 2. Podrán ser homologadas como entidades de inspección técnica:
 a) Los profesionales titulados, inscritos como ejercientes en el correspondiente Colegio Profesional, individualmente o asociados en las formas que autoricen las normas profesionales de este último, para actuar en el ámbito de competencias profesionales que les confiera legalmente el título que ostenten.
-b) Toda clase de personas jurídicas legalmente constituidas que no dependan, ni estén vinculadas a entidades o empresas de la construcción o de la promoción inmobiliaria, entre cuyos fines o en cuyo objeto no figuren la promoción inmobiliaria, la construcción, la administración de inmuebles o la intermediación en el sector inmobiliario.
+b) Toda clase de personas jurídicas legalmente constituidas que no dependan, ni estén vinculadas a entidades o empresas de la construcción o de la promoción inmobiliaria y entre cuyos fines o en cuyo objeto no figuren la promoción inmobiliaria, la construcción, la administración de inmuebles o la intermediación en el sector inmobiliario.
 3. La homologación requerirá acreditar:
 a) Cuando se trate de profesionales:
 1.º Una colegiación como ejerciente por más de cinco años consecutivos como mínimo.
@@ -15,3 +15,4 @@ b) Cuando se trate de entidades:
 4. La homologación sólo podrá denegarse por razones de legalidad, debiendo resolverse sobre ella dentro del mes siguiente a la presentación de la correspondiente solicitud, que deberá determinar con toda precisión la actividad de inspección técnica para la que se interesa la homologación. Transcurrido aquel plazo sin notificación de resolución expresa podrá entenderse desestimada la solicitud.
 La homologación comportará la inscripción en el registro de entidades de inspección técnica que deberá llevar la Consejería competente en materia de ordenación urbanística.
 5. La pérdida sobrevenida de cualesquiera de los requisitos exigidos en esta Disposición así como el incumplimiento grave o reiterado de las obligaciones previstas en el artículo 169 determinará la pérdida de la homologación, previa tramitación del oportuno expediente contradictorio, que podrá ser acordado de oficio por la Administración o a instancia de parte, practicándose la oportuna anotación en el Registro.
+Se modifica la letra b) del apartado 2 por el art. 15.19 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
