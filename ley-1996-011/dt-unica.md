@@ -1,0 +1,4 @@
+Disposición transitoria única.
+1. El Presidente del Consejo de Administración de la Agencia Antidroga de la Comunidad de Madrid será nombrado por el Consejo de Gobierno en el plazo máximo de un mes desde la entrada en vigor de esta Ley.
+2. El Consejo de Administración de la Agencia Antidroga de la Comunidad de Madrid deberá celebrar sesión constitutiva en los dos meses siguientes a la entrada en vigor de esta Ley.
+3. En tanto se constituya el Consejo de Administración de la Agencia Antidroga de la Comunidad de Madrid, el actual Coordinador general del Plan Regional sobre Drogas continuará ejerciendo las competencias que actualmente le corresponden. Las competencias que esta Ley atribuye al Consejo de Administración, con carácter delegable, serán ejercidas por su Presidente hasta la sesión constitutiva del Consejo, en la que éste se pronunciará sobre el mantenimiento o revocación de la delegación.
