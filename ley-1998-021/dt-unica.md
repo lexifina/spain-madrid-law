@@ -1,0 +1,2 @@
+Disposición transitoria única.
+Las empresas artesanas que a la entrada en vigor de la presente Ley, estuvieran inscritas en el Registro de Empresas Artesanas regulado en el Decreto 10/1991 y en la Orden 1067/1992, dispondrán de un plazo de un año, a partir de la publicación de las normas que desarrollen el procedimiento de inscripción en el Registro de Actividades Artesanas, para solicitar el reconocimiento por la Comunidad de Madrid en su condición de artesano o empresa artesana.
