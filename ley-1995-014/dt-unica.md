@@ -1,0 +1,2 @@
+Disposición transitoria única.
+Hasta tanto no se desarrolle reglamentariamente esta Ley, las causas de incompatibilidad y las obligaciones formales de los altos cargos de la Comunidad de Madrid, serán las establecidas en la Ley 7/1984, de Incompatibilidades de los Miembros del Consejo de Gobierno y Altos Cargos de la Administración de la Comunidad de Madrid y en el Decreto 63/1985, sobre Organización y Funcionamiento del Registro de Incompatibilidades.
