@@ -1,0 +1,10 @@
+Aprobada por la Asamblea de Madrid la Ley 3/1985, publicada en el «Boletín Oficial de la Comunidad de Madrid» número 71, de fecha 25 de marzo de 1985, se inserta a continuación el texto correspondiente.
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que, yo en nombre del Rey, promulgo
+EXPOSICIÓN DE MOTIVOS
+Una de las actividades de las Administraciones públicas, a las que tradicionalmente la doctrina ha denominado fomento, lo constituye el reconocimiento público a los méritos de aquellas personas que se hayan destacado por su servicio a la sociedad.
+El transcurso del tiempo no ha desvirtuado la necesidad de esta actividad administrativa, pero sí ha modificado su objeto, que ahora, en un Estado social y democrático de Derecho, deberá tener en cuenta no sólo las actuaciones recompensables en un Estado liberal, sino otras muchas acordes con los nuevos valores.
+La Comunidad de Madrid no puede ser una excepción, antes al contrario, desea y está obligada a reconocer los méritos de quienes se hayan destacado por su servicio a la sociedad madrileña.
+La Medalla que se crea tiene su antecedente inmediato en la Medalla de Honor y Gratitud de la Provincia de Madrid. Sin embargo era preciso adaptar esta Medalla a los cambios políticos y administrativos surgidos, de los que se ha derivado la extinción de la Diputación de Madrid y la subrogación de la Comunidad Autónoma en sus competencias.
+La Medalla de la Comunidad de Madrid, regulada en la presente Ley, tiene en cuenta en su diseño los símbolos que, en virtud del artículo 4 del Estatuto de Autonomía, estableció la Ley 2/1983, de 23 de diciembre.
+Las iniciativas de concesión de la Medalla no podían circunscribirse a los poderes públicos. Una sociedad pluralista exige una enorme amplitud de opiniones y de opciones, por lo cual la presente Ley prevé, ampliando en este sentido el Reglamento de la Medalla de la Provincia, la iniciación del expediente de concesión a instancia tanto del Legislativo y Ejecutivo autonómicos, como de los Ayuntamientos y de las entidades culturales, científicas o socioeconómicas.
