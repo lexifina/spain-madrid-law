@@ -3,6 +3,6 @@ Del régimen jurídico
 CAPITULO I
 Disposiciones generales
 Artículo 35.
-1. Las competencias de la Comunidad de Madrid se entienden referidas a su territorio.
-2. En las materias de su competencia, le corresponde a la Asamblea de Madrid la potestad legislativa en los términos previstos en el Estatuto. correspondiéndole al Consejo de Gobierno la potestad reglamentaria y la función ejecutiva.
-3. Las competencias de ejecución de la Comunidad de Madrid llevan implícito la correspondiente potestad reglamentaria para la organización interna de los servicios, la administración y, en su caso, la inspección.
+La Administración de la Comunidad de Madrid, como ente de derecho público, tiene personalidad jurídica y plena capacidad de obrar. Su responsabilidad, y la de sus autoridades y funcionarios, procederá y se exigirá en los mismos términos y casos que establezca la legislación del Estado en la materia.
+Se renumera por el art. 1.29 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+Su anterior numeración era art. 36.
