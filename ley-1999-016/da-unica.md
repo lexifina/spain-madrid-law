@@ -1,0 +1,2 @@
+Disposición adicional única.
+Para todos los Registros y actividades comerciales reguladas en esta Ley, así como en la reglamentación de desarrollo de la misma, se tendrá en cuenta, en todo caso, lo dispuesto en la Ley Orgánica 5/1992, de 29 de octubre, de Regulación del Tratamiento Automatizado de los Datos de Carácter Personal, y en la Ley 13/1995, de 21 de abril, de Regulación del Uso de la Informática en el Tratamiento de Datos Personales por la Comunidad de Madrid.
