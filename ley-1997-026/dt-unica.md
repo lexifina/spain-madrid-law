@@ -1,0 +1,2 @@
+Disposición transitoria única.
+El personal al servicio de la Comunidad de Madrid que, a la entrada en vigor de la presente Ley, ocupe puestos de trabajo en el Servicio de Investigación Agraria de la Dirección General de Agricultura y Alimentación seguirá desempeñándolos como personal al servicio de la Comunidad de Madrid en el IMIDRA, en tanto se produce la adscripción definitiva por el procedimiento previsto en los artículos 42 y 43 de la Ley 1/1984.
