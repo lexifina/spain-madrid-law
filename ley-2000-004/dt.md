@@ -1,0 +1,3 @@
+Disposición transitoria.
+1. Los aspirantes que hayan superado las pruebas selectivas para acceso a la categoría de Médico (Grupo A) o a la categoría de Diplomado en Enfermería (Grupo B) de la Especialidad Técnico Sanitaria, Escala Técnica o de Mando del Cuerpo de Bomberos tomará posesión en las citadas categorías quedando integrados automáticamente en la Escala de Emergencia Sanitaria del Cuerpo de Técnicos Superiores de Salud Pública y en la Escala de Emergencia Sanitaria del Cuerpo de Diplomados de Salud Pública respectivamente.
+2. Quedan integrados en la Escala de Salud Pública del Cuerpo de Diplomados de Salud Pública los funcionarios de carrera que a la fecha de la entrada en vigor de la presente disposición, pertenezcan al Cuerpo de Diplomados de Salud Pública.
