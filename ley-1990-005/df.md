@@ -1,0 +1,2 @@
+Disposición final.
+La presente Ley entrará en vigor el día de su publicación en el Boletín Oficial de la Comunidad de Madrid, debiendo también ser publicada en el «Boletín Oficial del Estado».
