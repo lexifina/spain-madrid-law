@@ -1,0 +1,4 @@
+Disposición transitoria. Régimen provisional de las Cámaras Agrarias.
+1. Durante el período comprendido entre la entrada en entrada en vigor de esta Ley y la constitución del Pleno de la Cámara Agraria de Madrid, las Cámaras Agrarias en funcionamiento provisional, no podrán realizar disposiciones patrimoniales.
+2. Se creará una Comisión de Información y Evaluación, al objeto de realizar un inventario de bienes y derechos de titularidad de las actuales Cámaras y su situación administrativa y presupuestaria, que deberá haber finalizado y puesto a disposición del Pleno de la Cámara Agraria de la Comunidad de Madrid en los quince días siguientes a su constitución. Su composición y funciones se determinarán reglamentariamente.
+3. Las referencias a la Cámara Agraria de la Comunidad de Madrid, en los artículos 19 y 24.1.b) de esta Ley, se entenderán hechas a la Cámara Agraria Provincial, hasta la constitución de aquélla.
