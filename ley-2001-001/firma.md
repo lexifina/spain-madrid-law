@@ -103,7 +103,7 @@ Procedimiento administrativo | Plazo máximo de resolución y notificación | Ef
 7.3 Acreditación de actividades y centros de formación continuada de profesiones sanitarias | Seis meses. | Desestimatorio.
 7.4 Autorización previa para la creación, construcción, modificación, adaptación y supresión de centros, servicios y establecimientos sanitarios del ámbito de aplicación del Decreto 110/1997, de 11 de septiembre | Dos meses. | Desestimatorio.
 7.5 Autorización definitiva para la creación, construcción, modificación, adaptación y supresión de centros, servicios y establecimientos sanitarios del ámbito de aplicación del Decreto 110/1997, de 11 de septiembre | Tres meses. | Desestimatorio.
-7.6 Sancionador en materia sanitaria (medicamentos, oficinas de farmacia, centros de óptica, cosméticos) | Nueve meses. | Caducidad.
+7.6 Sancionador en materia sanitaria. | Nueve meses. | Caducidad.
 7.7 Acreditación de Comités Éticos de Investigación Clínica | Cuarenta y cinco días. | Desestimatorio.
 7.8 Autorizaciones de establecimientos de óptica y secciones de óptica en oficinas de farmacia | Tres meses. | Desestimatorio.
 7.9 Autorización de homologación de centros y servicios sanitarios relacionados con las técnicas de reproducción humana asistida en la Comunidad de Madrid | Tres meses. | Desestimatorio.
@@ -136,4 +136,5 @@ Procedimiento administrativo | Plazo máximo de resolución y notificación | Ef
 9.10 Tramitación de solicitudes y adjudicación de plazas en residencias de mayores que integran la red pública de la Comunidad de Madrid. | Un mes (valoración) y diez días (resolución). | Desestimatorio.
 9.11 Acreditación de Instituciones Colaboradoras de Adopción Internacional | Tres meses. | Desestimatorio.
 9.12 Concesión de la Tarjeta de Estacionamiento de vehículos para personas con movilidad reducida de la Comunidad de Madrid | Tres meses. | Desestimatorio.
+Se modifica por el art. 7 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
 Se modifica por el art. 14 y la disposición derogatoria 2 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.

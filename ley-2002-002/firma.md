@@ -176,11 +176,7 @@ c) Con independencia de su localización, cuando el caudal anual de explotación
 74. Presas y otras instalaciones destinadas a retener agua o almacenarla, con una capacidad superior a 100.000 metros cúbicos o una cota de coronación mayor o igual a 10 metros, medidos desde la cota del punto más bajo de la superficie general de cimientos.
 75. Conducciones de agua a larga distancia, de longitud mayor de 10 kilómetros cuya capacidad máxima de conducción sea superior a 5 metros cúbicos por segundo.
 76. Proyectos que puedan suponer la alteración de zonas húmedas en una superficie igual o superior a 1 hectárea.
-77. Plantas de tratamiento de aguas residuales cuando se dé alguna de las siguientes circunstancias:
-a) Capacidad de la planta igual o superior a 50.000 habitantes equivalentes.
-b) Cuando el vertido del efluente afecte a un medio acuático calificado como sensible.
-c) En caso de vertido a cauce, cuando el punto de vertido del efluente esté próximo, aguas arriba, de tomas para abastecimiento humano.
-d) Esté situada en espacios incluidos en el anexo sexto.
+77. Plantas de tratamiento de aguas residuales con capacidad superior a 150.000 habitantes equivalentes.
 78. Conducciones de aguas residuales de longitud superior a 10 km, situados fuera de zonas urbanas.
 79. Obras de limpieza o desaterramiento que impliquen el vaciado de embalses.
 80. Cualquier actividad que demande, use o vierta más de 250 metros cúbicos de agua, de media diaria, excluyendo la explotación y la gestión de abastecimientos y usos agrícolas, que no se encuentre incluida en otros apartados del presente anexo.
@@ -214,6 +210,7 @@ Proyectos de instalaciones turísticas, recreativas, deportivas, etcétera
 100. Parques temáticos.
 Otros
 101. Proyectos de transformación de uso del suelo que impliquen la eliminación de la cubierta vegetal arbustiva o arbórea, cuando dichas transformaciones afecten a superficies superiores 100 Ha, o cuando afecten a superficies superiores a 10 Ha situadas en espacios incluidos en el anexo sexto.
+Se modifica el apartado 77 por el art. 21.1 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
 ANEXO TERCERO
 Proyectos y actividades de obligado sometimiento a evaluación de impacto ambiental en la Comunidad de Madrid
 Procedimiento abreviado
@@ -288,8 +285,12 @@ d) Con independencia de su localización, que supere los 20.000 metros cúbicos 
 39. Depósitos para almacenar agua con capacidad igual o superior a 50.000 metros cúbicos y aducciones con diámetro igual o superior a 1 metro, en ambos casos cuando se sitúen fuera de zonas urbanas.
 40. Estaciones de tratamiento de agua potable con capacidad superior o igual a 50.000 metros cúbicos diarios.
 41. Conducciones de aguas residuales situadas fuera de zonas urbanas de más de un kilómetro de longitud, o de cualquier longitud cuando discurran por espacios incluidos en el anexo sexto.
-42. Plantas de tratamiento de aguas residuales de capacidad inferior a 50.000 habitantes equivalentes y superior a 5.000, que no estén incluidas en el anexo segundo.
-43. Reutilización directa de aguas cuando el volumen anual de agua reutilizada sea igual o superior a 20.000 metros cúbicos y no tenga como fin la sustitución o reducción de otros consumos de agua ya existentes.
+42. Plantas de tratamiento de aguas residuales cuando se dé alguna de las siguientes circunstancias:
+a) Capacidad de la planta entre 50.000 y 150.000 habitantes equivalentes.
+b) Cuando el vertido del efluente afecte a un medio acuático calificado como sensible.
+c) En caso de vertido a cauce, cuando el punto de vertido del efluente esté próximo, aguas arriba, de tomas para abastecimiento humano.
+d) Esté situada en espacios incluidos en el anexo sexto.
+43. (Suprimido)
 Gestión de residuos
 44. Instalaciones de eliminación de residuos peligrosos mediante tratamientos físicos tales como, desinfección térmica, condensación u operaciones asimilables, con una capacidad de tratamiento superior a 1.500 Tm/año.
 45. Instalaciones de incineración o valorización energética de residuos no peligrosos, así como las de eliminación de dichos residuos mediante tratamiento químico (como se define en el epígrafe D9 del anexo II A de la Directiva 75/442/CEE, del Consejo, de 15 de julio, relativa a los residuos con capacidad superior a 100 Tm/año).
@@ -303,6 +304,7 @@ Otros proyectos
 51. Cementerios y crematorios.
 52. Hospitales.
 53. Cualquier proyecto o actividad de los incluidos en el anexo segundo de esta Ley que quedando hasta un 30 por 100 por debajo de los umbrales establecidos en el mencionado anexo, se localice en alguna de las zonas recogidas en el anexo sexto.
+Se modifica el apartado 42 y se suprime el 43 por el art. 21.2 y 3 de la Ley 2/2004, de 31 de mayo. Ref. BOE-A-2004-12575.
 ANEXO CUARTO
 Proyectos y actividades a estudiar caso por caso por el órgano ambiental de la Comunidad de Madrid
 Proyectos relacionados con la silvicultura, agricultura, acuicultura y ganadería
@@ -369,8 +371,8 @@ b) Situada en las unidades hidrogeológicas 03.05 y 03.04.
 c) Con independencia de su localización, que supere los 7.000 metros cúbicos de volumen anual de extracción.
 d) Perforaciones profundas para el abastecimiento de agua.
 52. Presas, depósitos y otras instalaciones destinadas a retener agua o almacenarla con capacidad superior a 500 metros cúbicos, situadas fuera de zonas urbanas, no incluidas en otros anexos.
-53. Reutilización directa de aguas cuando el volumen anual de agua reutilizada sea inferior a 20.000 metros cúbicos e igual o superior a 7.000 metros cúbicos.
-54. Plantas de tratamiento de aguas residuales y conducciones de aguas residuales fuera de zonas urbanas, no incluidos en otros anexos.
+53. Reutilización directa de aguas cuando el volumen anual de agua reutilizada sea igual o superior a 20.000 metros cúbicos y no tenga como fin la sustitución o reducción de otros consumos de agua ya existentes.
+54. Plantas de tratamiento de aguas residuales de capacidad inferior a 50.000 habitantes equivalentes y superior a 5.000, que no estén incluidas en el Anexo tercero.
 55. Proyectos que puedan suponer la alteración de zonas húmedas en superficies inferiores a 1 hectárea.
 56. Estaciones de tratamiento de agua potable con capacidad inferior a 50.000 metros cúbicos al día.
 57. Proyectos de encauzamiento, canalización y defensa de cauces naturales y márgenes, así como de alivio de inundaciones, no incluidos en el anexo segundo, excepto aquellas actuaciones que se ejecuten para evitar el riesgo de inundación en zonas urbanas.
@@ -397,6 +399,7 @@ Otros proyectos
 74. Cualquier construcción en suelo no urbanizable con un volumen construido igual o superior a 5.000 metros cúbicos o una ocupación de suelo superior a 2.000 metros cuadrados.
 75. Centros de investigación de carácter técnico o científico relacionados, entre otras disciplinas, con la física, la química, la biología y especialidades farmacéuticas, biotecnológicas y sanitarias.
 76. Los proyectos de los anexos segundo o tercero que sirvan exclusiva o principalmente para desarrollar o ensayar nuevos métodos o productos y que no se utilicen por más de dos años.
+Se modifican los apartados 53 y 54 por el art, 21.4 y 5 de la Ley 2/2004, de 31 de mayo. Ref. BOE-A-2004-12575.
 ANEXO QUINTO
 Actividades o proyectos con incidencia ambiental sometidos al procedimiento de evaluación ambiental de actividades en la Comunidad de Madrid
 Proyectos agropecuarios
