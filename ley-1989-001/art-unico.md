@@ -1,0 +1,2 @@
+Artículo único.
+El Consejero titular del Departamento al que estén adscritos los organismos correspondientes o, en el supuesto del capítulo 7 del título 1 de la Ley 1/1984, el Consejo de Gobierno remitirá a la Asamblea de Madrid, con carácter trimestral, la cuenta de pérdidas y ganancias y el balance de situación de cada Organismo, así como anualmente los informes de auditoría realizados por la Intervención General de la Comunidad de Madrid y cualquier otra auditoría externa, en su caso.
