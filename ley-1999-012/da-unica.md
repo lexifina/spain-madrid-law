@@ -1,0 +1,2 @@
+Disposición adicional única.
+El Consejo de Gobierno de la Comunidad de Madrid establecerá, en el ejercicio de sus competencias, Consejos Escolares de ámbito territorial o municipal dictando las disposiciones necesarias para la organización y funcionamiento de los mismos, de acuerdo con lo establecido en el artículo 35 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
