@@ -1,0 +1,7 @@
+Aprobada por la Asamblea de Madrid la Ley 4/1989, de 6 de abril, publicada en el «Boletín Oficial de la Comunidad de Madrid» número 105, de fecha 4 de mayo de 1989, y corrección de errores en el número 189, de fecha 9 de mayo de 1989, se inserta a continuación el texto correspondiente.
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo.
+ANTECEDENTES
+El artículo 20.1.a) de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, en la redacción final aprobada por la Ley 23/1988, de 28 de julio, que modificó algunos artículos de aquélla, y el artículo 49 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, establecen que la provisión de los puestos de trabajo adscritos a funcionarios se realizará siempre por convocatorias públicas y a través del concurso de méritos como sistema normal de provisión.
+De igual manera, el mismo artículo de la primera Ley citada y el artículo 50 de la segunda norma determinan los méritos a tener en cuenta en dichos concursos.
+Dado que en el ámbito de la Comunidad de Madrid no ha tenido lugar el desarrollo de las anteriores previsiones, se formula la presente proposición de Ley que recoge las experiencias acumuladas en los concursos celebrados y pretende regular las que de futuro se produzcan para el mejor cumplimiento de los fines para los que este sistema de selección fue instituido.
