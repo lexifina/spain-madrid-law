@@ -1,0 +1,2 @@
+Disposición transitoria única. Personal de inspección.
+El personal que, a la entrada en vigor de esta Ley, viniera realizando las funciones relativas a la inspección de fianzas, podrá continuar en el desempeño de las mismas, bajo las directrices emanadas de la Dirección-Gerencia del Instituto de la Vivienda de Madrid, a través de la correspondiente Unidad Administrativa del citado Organismo y hasta tanto se cumpla lo previsto en el artículo 5, apartado 1, párrafo primero de la presente Ley.
