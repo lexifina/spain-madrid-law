@@ -1,0 +1,2 @@
+Disposición transitoria única.
+Se reconoce el carácter de corporaciones de derecho público de las academias ya constituidas, a las que el Instituto de España haya reconocido su condición de academias asociadas y que se encuentran en el ámbito de aplicación de la presente Ley. Dichas academias deberán solicitar su inscripción en el Registro en el plazo de seis meses desde la entrada en vigor de la misma.
