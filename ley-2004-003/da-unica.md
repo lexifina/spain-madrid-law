@@ -1,0 +1,2 @@
+Disposición adicional única.
+El Organismo Autónomo Agencia de la Comunidad de Madrid para la Reeducación y Reinserción del Menor Infractor se subroga en la titularidad de los bienes, derechos y obligaciones que ostenta, o tiene contraídas, con cualesquiera entidades públicas o privadas, el Instituto Madrileño del Menor y la Familia, en relación al cumplimiento de los fines señalados en la presente Ley.
