@@ -1,0 +1,3 @@
+Artículo 53 ter.
+La funcionaria víctima de Violencia de Género que se vea obligada a abandonar el puesto de trabajo en la localidad donde venía prestando sus servicios, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrá derecho preferente a ocupar otro puesto de trabajo propio de su Cuerpo o Escala y de análogas características que se encuentre vacante y sea de necesaria provisión. En tales supuestos el órgano de la Administración de la Comunidad de Madrid competente en cada caso estará obligado a comunicarle las vacantes de necesaria provisión ubicadas en la misma localidad o en las localidades que la interesada expresamente solicite.
+Se añade por la disposición final 3.2 de la Ley 5/2005, de 20 de diciembre. Ref. BOE-A-2006-3667.
