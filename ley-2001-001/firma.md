@@ -17,6 +17,8 @@ Procedimiento administrativo | Plazo máximo de resolución y notificación | Ef
 1.9 Reconocimiento de grado | Tres meses. | Desestimatorio.
 1.10 Reconocimiento de servicios previos | Tres meses. | Desestimatorio.
 1.11 Inscripción en el Registro de Licitadores de la Comunidad de Madrid | Tres meses. | Desestimatorio.
+1.12 Autorización para la organización y comercialización de apuestas. | Seis meses. | Desestimatorio.
+1.13 Autorización de locales o zonas de apuestas. | Seis meses. | Desestimatorio.
 2. Consejería de Justicia, Función Pública y Administración Local |  | 
 2.1 Solicitud de compatibilidad para el desempeño de segunda actividad en el sector público | Tres meses. | Desestimatorio.
 2.2 Solicitud de compatibilidad para el desempeño de segunda actividad en el sector privado | Tres meses. | Desestimatorio.
@@ -137,6 +139,7 @@ Procedimiento administrativo | Plazo máximo de resolución y notificación | Ef
 9.10 Tramitación de solicitudes y adjudicación de plazas en residencias de mayores que integran la red pública de la Comunidad de Madrid. | Un mes (valoración) y diez días (resolución). | Desestimatorio.
 9.11 Acreditación de Instituciones Colaboradoras de Adopción Internacional | Tres meses. | Desestimatorio.
 9.12 Concesión de la Tarjeta de Estacionamiento de vehículos para personas con movilidad reducida de la Comunidad de Madrid | Tres meses. | Desestimatorio.
+Se modifica por el art. 17 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
 Se modifica por el art. 16 de la Ley 5/2004, de 28 de diciembre. Ref. BOE-A-2005-2732.
 Se modifica por el art. 7 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
 Se modifica por el art. 14 y la disposición derogatoria 2 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
