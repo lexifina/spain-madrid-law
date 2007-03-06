@@ -1,0 +1,3 @@
+Disposición adicional única. Régimen aplicable a los mediadores familiares que hayan ejercido la mediación con anterioridad a la entrada en vigor de la Ley.
+Quienes hayan ejercido como mediadores familiares con anterioridad a la entrada en vigor de la presente Ley podrán solicitar a la Consejería competente en materia de familia su inscripción en el Registro de Mediadores Familiares. A estos efectos deberán acreditar la titulación universitaria exigida en la presente Ley y formación específica en mediación familiar o experiencia profesional como mediador familiar en las condiciones y plazos que se establezcan reglamentariamente.
+En cualquier caso, podrá exigirse la realización de complementos de formación como requisito previo a la inscripción.
