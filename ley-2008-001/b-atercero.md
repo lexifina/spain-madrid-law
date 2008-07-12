@@ -1,0 +1,4 @@
+Artículo tercero. Modificación parcial de la Ley 5/2002, de 27 de junio, sobre Drogodependencias y Otros Trastornos Adictivos.
+Se modifica el apartado a) del párrafo segundo del artículo 61 de la Ley 5/2002, de 27 de junio, sobre Drogodependencias y Otros Trastornos Adictivos que quedará redactado en los siguientes términos:
+«Artículo 61. Competencias.
+2. a) En lo relativo a la infracción de las prohibiciones y limitaciones a la venta de bebidas alcohólicas serán competentes los órganos previstos en la Ley 16/1999, de 29 de abril, de Comercio Interior de la Comunidad de Madrid. No obstante, la incoación, instrucción y resolución de los expedientes sancionadores por incumplimiento de lo dispuesto en el apartado 11 del artículo 30 en relación con la obtención de licencia específica corresponderá a las Corporaciones Locales competentes para su concesión.»
