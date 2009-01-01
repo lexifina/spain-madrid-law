@@ -429,8 +429,7 @@ Otros proyectos e instalaciones
 22. Instalaciones en las que se realicen prácticas de embalsamamiento y tanatopraxia.
 23. Centros sanitarios asistenciales extrahospitalarios, clínicas veterinarias, médicas, odontológicas y similares.
 24. Laboratorios de análisis clínicos.
-25. Instalaciones o actividades catalogadas como potencialmente contaminantes por ruido no incluidas en otros anexos.
-26. Todas aquellas actividades establecidas en el Decreto 2414/1961, de 30 de noviembre, por el que se aprueba el Reglamento de Actividades molestas, insalubres, nocivas y peligrosas, cuando no estén recogidas en otros anexos de esta Ley.
+Se suprimen los epígrafes 25 y 26 por el art. 20 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
 ANEXO SEXTO
 Áreas especiales
 A los efectos previstos en esta Ley, se consideran áreas especiales:
