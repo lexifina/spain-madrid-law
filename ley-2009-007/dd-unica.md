@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones normativas de igual o inferior rango se opongan a lo establecido en la presente ley, en concreto el Decreto 223/2003, de 6 de noviembre, por el que se regula la gestión del Servicio de Inspección Técnica de Vehículos en la Comunidad de Madrid durante el período transitorio definido por el Real Decreto 833/2003, de 27 de junio.
