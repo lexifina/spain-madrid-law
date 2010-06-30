@@ -1,0 +1,14 @@
+LA PRESIDENTA DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo.
+PREÁMBULO
+El artículo 26.1.7 del Estatuto de Autonomía de la Comunidad de Madrid, aprobado por la Ley Orgánica 3/1983, de 25 de febrero, atribuye a la Comunidad competencias exclusivas en materia de «Instalaciones de navegación y deporte en aguas continentales, aeropuertos y helipuertos deportivos, así como los que no desarrollen actividades comerciales». Por su parte, el artículo 28.1.7 establece que la Comunidad de Madrid tiene competencia ejecutiva de la legislación estatal en materia de «aeropuertos y helipuertos con calificación de interés general cuya gestión directa no se reserve al Estado».
+En consecuencia, cabe distinguir en el caso de la Comunidad de Madrid los siguientes tipos de instalaciones aeronáuticas:
+1. Aeropuertos, aeródromos y helipuertos deportivos o no comerciales: respecto de los cuales puede legislar la Comunidad Autónoma.
+2. Aeropuertos y helipuertos que desarrollan actividades comerciales: en los que sólo puede legislar el Estado, y que a su vez cabe separar en dos grupos:
+a) Con calificación de interés general: en este caso el Estado puede reservarse su gestión directa o atribuírsela a la Comunidad de Madrid.
+b) Sin calificación de interés general: instalaciones que podrán ser gestionados por la Comunidad Autónoma, ejecutando la legislación estatal.
+El desarrollo, tanto de las infraestructuras aeronáuticas como del transporte aéreo, es quizá una de las señas de identidad más características de las sociedades avanzadas. El acceso a los modos aéreos de transporte, ampliamente solicitados por los ciudadanos, se configura como una demanda cada vez más intensa, que las administraciones públicas, en el ámbito de sus respectivas competencias, han de procurar satisfacer de la manera más eficiente posible.
+El dinamismo del sector aeronáutico y sus repercusiones económicas, el permanente crecimiento del tráfico –que exige potenciar un mercado cada vez más abierto– y la necesidad de una adecuada planificación y gestión de las infraestructuras autonómicas, exigen dotar a la Administración regional de los recursos jurídicos necesarios para armonizar las demandas de la sociedad y la industria madrileñas con la preservación medioambiental de nuestro territorio.
+Las razones expuestas aconsejan el desarrollo estatutario en esta materia mediante la promulgación de la presente ley, como el mejor instrumento para configurar las infraestructuras aeronáuticas que los madrileños demandan y esperan.
+La ley se estructura en tres títulos, una disposición transitoria y tres finales.
+La ley se dicta al amparo de las competencias atribuidas a la Comunidad de Madrid en el artículo 26.1.7 de su Estatuto de Autonomía, y una vez oído el Consejo Económico y Social.
