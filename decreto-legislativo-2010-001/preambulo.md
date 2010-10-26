@@ -1,0 +1,23 @@
+LA PRESIDENTA DE LA COMUNIDAD DE MADRID
+Hago saber: Que el Gobierno de la Comunidad de Madrid ha aprobado el siguiente Decreto Legislativo, que yo, en nombre del Rey, promulgo.
+I
+La Ley 10/2009, de 23 de diciembre, de Medidas Fiscales y Administrativas, en su disposición final primera, autoriza al Gobierno de la Comunidad de Madrid para que, en el plazo de diez meses desde la entrada en vigor de la misma, elabore un texto refundido que contenga la normativa que, con rango de Ley, haya aprobado la Comunidad de Madrid en materia de tributos cedidos por el Estado y que se halle vigente a 1 de enero de 2010. La delegación legislativa autoriza la formulación de un texto único que recopile, ordene y transcriba las disposiciones vigentes a la fecha indicada.
+La autorización ha sido ampliada, por la disposición final tercera de la Ley 5/2010, de 12 de julio, de Medidas Fiscales para el Fomento de la Actividad Económica, a las disposiciones relativas a tributos cedidos por el Estado contenidas en la mencionada Ley.
+La aprobación de un texto único tiene como finalidad principal dotar de mayor claridad a la normativa autonómica en materia de tributos cedidos por el Estado mediante la integración en un único cuerpo normativo de las disposiciones que afectan a dicha materia, contribuyendo con ello a aumentar la seguridad jurídica de los contribuyentes y de la Administración Tributaria de la Comunidad de Madrid.
+II
+En el ejercicio de la citada autorización se aprueba este Decreto Legislativo por el que se aprueba el Texto Refundido de la Ley que contiene las disposiciones legales dictadas por la Comunidad en materia de tributos cedidos por el Estado, y que se encontraban incluidas en las siguientes Leyes:
+– Ley 7/2002, de 25 de julio, por la que se regula el tipo de gravamen autonómico del Impuesto sobre Ventas Minoristas de Determinados Hidrocarburos.
+– Ley 13/2002, de 20 de diciembre, de Medidas Fiscales y Administrativas.
+– Ley 5/2004, de 28 de diciembre, de Medidas Fiscales y Administrativas.
+– Ley 7/2005, de 23 de diciembre, de Medidas Fiscales y Administrativas.
+– Ley 7/2007, de 21 de diciembre, de Medidas Fiscales y Administrativas.
+– Ley 4/2009, de 20 de julio, de Medidas Fiscales contra la Crisis Económica.
+– Ley 10/2009, de 23 de diciembre, de Medidas Fiscales y Administrativas.
+– Ley 5/2010, de 12 de julio, de Medidas Fiscales para el Fomento de la Actividad Económica.
+III
+El Texto Refundido se estructura en: un título I dedicado a los impuestos en particular sobre los que la Comunidad de Madrid ha ejercido sus competencias normativas; un título II que contiene diversas obligaciones formales establecidas en la aplicación de los tributos cedidos por el Estado; una disposición adicional relativa al Impuesto sobre las Ventas Minoristas de determinados Hidrocarburos; cuatro disposiciones transitorias dedicadas al Impuesto sobre Sucesiones y Donaciones; al Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos documentados, en la modalidad de Transmisiones Patrimoniales Onerosas; y a la Tasa Fiscal sobre los Juegos de Suerte, Envite o Azar aplicable, por un lado, al juego del bingo, y, por otro, a los casinos de juego en caso de nuevas autorizaciones; y cuatro disposiciones finales que recogen la entrada en vigor de diversas deducciones y de los mínimos por descendientes en el Impuesto sobre la Renta de las Personas Físicas.
+El título I se compone de seis capítulos dedicados a los seis tributos sobre los que la Comunidad de Madrid ha ejercido competencias normativas: el Impuesto sobre la Renta de las Personas Físicas, el Impuesto sobre el Patrimonio, el Impuesto sobre Sucesiones y Donaciones, el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, los Tributos sobre el Juego y el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
+El título II se compone de tres capítulos dedicados a las obligaciones formales en relación con los Impuestos sobre Sucesiones y Donaciones y sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos y uno final sobre habilitaciones y presentaciones telemáticas de declaraciones.
+Se incluye un índice del contenido, cuyo objeto es facilitar la utilización de la norma por sus destinatarios mediante una rápida localización y ubicación sistemática de sus preceptos.
+En su virtud, a propuesta del Consejero de Economía y Hacienda, de acuerdo con el dictamen del Consejo Consultivo de la Comunidad de Madrid y previa deliberación del Consejo de Gobierno en su reunión de 21 de octubre de 2010,
+DISPONE:
