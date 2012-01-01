@@ -1,5 +1,7 @@
 Disposición final.
 1. Se autoriza al Consejo de Gobierno de la Comunidad de Madrid para que, a propuesta del Consejero de Hacienda, dicte las disposiciones reglamentarias precisas para el desarrollo y ejecución de la presente Ley.
+Se faculta a los Consejeros competentes por razón de la materia para aprobar, previo informe favorable de la Consejería competente en materia de Hacienda, la forma, plazos de ingreso, modelos de impreso y normas de desarrollo que sean necesarias para la gestión, liquidación y recaudación de todas las tasas reguladas en el Título IV de la presente Ley.
 2. Será competencia del Consejero de Hacienda aprobar las disposiciones interpretativas o aclaratorias tanto de la presente Ley como de las normas reglamentarias del Consejo de Gobierno, mediante Orden publicada en el «Boletín Oficial de la Comunidad de Madrid».
 3. Todas las referencias que en el Texto Refundido de la Ley de Tasas y Precios Públicos se realizan a Consejerías, Organismos, Entes o Centros Directivos deberán entenderse actualizadas y hechas a aquéllos que pudieran, por razón de la materia de que en cada caso se trate, haber asumido o asumir en el futuro las respectivas competencias, de acuerdo con la correspondiente normativa de estructura orgánica o atribución competencial.
+Se modifica el apartado 1, por el art. 3.4 de la Ley 6/2011, de 28 de diciembre. Ref. BOE-A-2012-2980.
 Se añade el apartado 3 por el art. 6.17 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
