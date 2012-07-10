@@ -1,0 +1,2 @@
+Disposición transitoria única. Central de Compras del Servicio Madrileño de Salud.
+Los procedimientos de contratación para la adquisición de bienes y servicios declarados de contratación centralizada, iniciados con anterioridad a la entrada en vigor de la presente ley, continuarán tramitándose de conformidad a lo dispuesto en las órdenes por las que se acordó la uniformidad de determinados bienes y servicios y la gestión centralizada de su contratación.
