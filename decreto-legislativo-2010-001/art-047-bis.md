@@ -1,0 +1,3 @@
+Artículo 47 bis. Tipo de devolución autonómico por el gasóleo de uso profesional.
+El tipo de devolución autonómico del gasóleo de uso profesional en el Impuesto sobre Hidrocarburos, al que se refiere el artículo 52bis.6.a) de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, en relación con el artículo 52.2 de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias, será de 17 euros por 1.000 litros.
+Se añade por el art. 1.13 de la Ley 6/2013, de 23 de diciembre. Ref. BOE-A-2014-3254.
