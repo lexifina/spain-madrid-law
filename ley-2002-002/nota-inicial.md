@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 1 de enero de 2015, con excepción del Título IV, los artículos 49, 50 y 72, la disposición adicional 7 y el anexo quinto, por la disposición derogatoria única.3 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-1956.
