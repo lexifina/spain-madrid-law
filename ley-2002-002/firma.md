@@ -3,6 +3,8 @@ Madrid, a 19 de junio de 2002.
 ALBERTO RUIZ-GALLARDÓN,
 Presidente
 ANEXOS
+(Derogados a excepción del anexo V)
+Se derogan, con la excepción del anexo V, por la disposición derogatoria única.3 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-1956.
 ANEXO PRIMERO
 Planes y programas sometidos a análisis ambiental en la Comunidad de Madrid
 1. Planes y programas que establezcan el marco para la autorización en el futuro de proyectos a los que sea de aplicación esta Ley y que se elaboren con respecto a:

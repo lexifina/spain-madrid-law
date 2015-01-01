@@ -1,2 +1,6 @@
 TÍTULO VI
 Disciplina ambiental
+Se deroga por la disposición derogatoria única.3 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-1956.
+Artículos 56 a 71.
+(Derogados).
+Se derogan por la disposición derogatoria única.3 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-1956.
