@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Queda derogada la Ley 3/1994, de 19 de mayo, del Voluntariado Social en la Comunidad de Madrid, entendiéndose que las referencias hechas a la misma en otras disposiciones normativas lo son, a partir de su entrada en vigor, a la presente ley. Asimismo, se entenderán derogadas las demás normas de igual o inferior rango, en cuanto contradigan o se opongan a lo dispuesto en la presente ley.

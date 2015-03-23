@@ -1,0 +1,2 @@
+Disposición adicional única. Régimen especial del voluntariado de protección civil.
+El voluntariado de protección civil se regirá en cuanto a su organización, funcionamiento y régimen jurídico por su normativa específica, constituida por el Decreto 125/1998, de 2 de julio, por el que se aprueba el Reglamento de Organización y Funcionamiento del Voluntariado Municipal de Protección Civil, y en los aspectos no regulados por dicha normativa, por la presente ley.
