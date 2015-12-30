@@ -1,0 +1,2 @@
+Disposición adicional única. Desafectación del dominio público y atribución del patrimonio adscrito.
+Quedan desafectados del dominio público los bienes y derechos que a la entrada en vigor de la presente Ley integran el patrimonio del Ente Público de Radio Televisión Madrid y de las sociedades Televisión Autonomía Madrid, S. A. y Radio Autonomía Madrid, S. A. Tales bienes tendrán la consideración de patrimoniales de Radio Televisión Madrid, S. A.
