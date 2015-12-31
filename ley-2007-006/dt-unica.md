@@ -1,3 +1,0 @@
-Disposición transitoria única. Fecha de inicio de solicitud de dictámenes.
-Se podrán solicitar dictámenes al Consejo Consultivo trascurridos tres meses desde la entrada en vigor del Reglamento Orgánico. Hasta dicha fecha se podrá seguir solicitando el dictamen del Consejo de Estado y de la Dirección General de los Servicios Jurídicos.
-A partir de la fecha antes referida, sólo se podrán solicitar dictámenes en aquellos expedientes respecto de los cuales no se haya solicitado previamente al Consejo de Estado o a la Dirección General de los Servicios Jurídicos, sin perjuicio de lo dispuesto en la Disposición adicional primera.
