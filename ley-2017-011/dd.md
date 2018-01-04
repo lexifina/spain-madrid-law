@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan, contradiga o resulten incompatibles con lo establecido en la presente Ley y, expresamente, el Decreto 72/1989, de 22 de junio, por el que se aprueba el Reglamento de Organización Básica y funcionamiento de los centros hospitalarios dependientes del Servicio Regional de Salud de la Comunidad de Madrid.
