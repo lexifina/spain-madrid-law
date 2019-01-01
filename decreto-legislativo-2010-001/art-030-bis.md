@@ -1,0 +1,10 @@
+Subsección 2.a Bonificaciones
+Se añade por el art. único.12.2 de la Ley 6/2018, de 19 de diciembre. Ref. BOE-A-2019-4451
+Artículo 30 bis. Bonificación de la cuota tributaria por adquisición de vivienda habitual por personas físicas.
+1. Las personas físicas que adquieran un inmueble que vaya a constituir su vivienda habitual podrán aplicar una bonificación del 10 por ciento de la cuota tributaria en la modalidad de ''Transmisiones Patrimoniales Onerosas'' derivada de dicha adquisición.
+A tal efecto, se considerará vivienda habitual la que se ajusta a la definición y requisitos establecidos en la disposición adicional vigésima tercera de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas, y en su normativa de desarrollo, en su redacción vigente desde el 1 de enero de 2013.
+2. La bonificación será aplicable, exclusivamente, cuando el valor real del inmueble adquirido sea igual o inferior a 250.000 euros.
+En la determinación del valor real de la vivienda adquirida se incluirán los anejos y plazas de garaje que se transmitan conjuntamente con aquella, aun cuando constituyan fincas registrales independientes.
+3. En el caso de que la vivienda adquirida no llegue a habitarse efectivamente en el plazo de 12 meses desde su adquisición o construcción o no se habite efectivamente durante un plazo mínimo continuado de tres años, salvo que concurran las circunstancias indicadas en la disposición adicional vigésima tercera de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas, y en su normativa de desarrollo, en su redacción vigente desde el 1 de enero de 2013, el adquirente deberá presentar, en el plazo de un mes desde que se produzca el incumplimiento, una autoliquidación complementaria aplicando el tipo impositivo general en la Comunidad de Madrid e incluyendo los correspondientes intereses de demora.
+4. La bonificación contenida en este artículo será incompatible con la aplicación del tipo impositivo a que se refiere el artículo 29 de esta ley.
+Se añade por el art. único.14 de la Ley 6/2018, de 19 de diciembre. Ref. BOE-A-2019-4451
