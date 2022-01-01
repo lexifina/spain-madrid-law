@@ -1,0 +1,6 @@
+Artículo 67 bis.
+1. El Consejero competente en materia de hacienda podrá acordar que no se libren, total o parcialmente, las transferencias corrientes o de capital destinadas a los organismos autónomos y demás entidades del sector público autonómico, cuando como consecuencia de la existencia de suficientes disponibilidades liquidas en sus Tesorerías, pudieran no resultar necesarias para el ejercicio de su actividad presupuestada.
+2. Asimismo, el Consejero competente en materia de hacienda, en situaciones excepcionales y previa autorización del Consejo de Gobierno, podrá disponer la transferencia a la Tesorería General de la totalidad o parte de dichas disponibilidades líquidas, a excepción de las procedentes de cotizaciones sociales y conceptos de recaudación conjunta. En este supuesto, dichas disponibilidades no tendrán la consideración de recurso propio de los Organismos o entidades.
+3. El importe transferido según lo dispuesto en el apartado anterior podrá generar crédito en la Sección 26 "Créditos Centralizados".
+4. El Consejero competente en materia de hacienda autorizará las operaciones y modificaciones presupuestarias que resulten necesarias para ejecutar lo dispuesto en este artículo y dictará las disposiciones precisas para su desarrollo.
+Se añade por la disposición final 1.6 de la Ley 4/2021, de 23 de diciembre. Ref. BOE-A-2022-1194
