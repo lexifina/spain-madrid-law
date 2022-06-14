@@ -1,0 +1,7 @@
+Sección 2.ª Transporte de viajeros en vehículos de arrendamiento con conductor
+Se añade por el art. único.3 de la Ley 5/2022, de 9 de junio. Ref. BOE-A-2022-13071
+Artículo 14 ter. Arrendamiento de vehículos con conductor.
+1. La actividad de arrendamiento de vehículos con conductor, a los efectos de la legislación de los transportes por carretera, tendrá la consideración de transporte público discrecional de viajeros y sus precios no estarán sujetos a tarifas administrativas.
+La realización de servicios urbanos mediante esta modalidad de transporte en el ámbito territorial de la Comunidad de Madrid, queda condicionada a que sus titulares obtengan la correspondiente autorización para lo que deberán cumplir los requisitos que reglamentariamente se establezcan.
+2. En todo caso, procederá denegar el otorgamiento de nuevas autorizaciones de arrendamiento de vehículos con conductor cuando la proporción entre el número de las autorizaciones de arrendamiento de vehículos con conductor autonómicas otorgadas por el órgano competente de la Comunidad de Madrid, junto con las estatales habilitadas para prestar servicios urbanos, y el número de las autorizaciones concedidas para realizar transporte de viajeros en automóviles de turismo domiciliadas en la Comunidad de Madrid sea superior a una de aquellas por cada treinta de estas.
+Se añade por el art. único.4 de la Ley 5/2022, de 9 de junio. Ref. BOE-A-2022-13071
