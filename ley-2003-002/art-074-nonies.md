@@ -1,0 +1,5 @@
+Artículo 74 nonies. Aportaciones económicas de los municipios asociados a las mancomunidades de interés general.
+1. Los municipios asociados consignarán en sus presupuestos las cantidades precisas, diferenciadas por materias, competencias y funciones, para atender las aportaciones comprometidas con la mancomunidad de interés general a la que pertenezcan y, a tal efecto, el secretario-interventor o interventor municipal, en el ejercicio de sus funciones, informará de ello específicamente con carácter previo a la adopción del acuerdo de aprobación definitiva del presupuesto municipal.
+2. Las aportaciones económicas de los municipios asociados se realizarán en la forma y plazos que se determinen en los estatutos de la mancomunidad de interés general.
+3. Estas aportaciones tendrán la consideración a todos los efectos de pagos obligatorios y de carácter preferente, ostentando la mancomunidad de interés general las prerrogativas establecidas legalmente para la Hacienda Pública.
+Se añade por el art. 16.1 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343

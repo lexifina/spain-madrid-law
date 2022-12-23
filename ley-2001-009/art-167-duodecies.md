@@ -1,0 +1,6 @@
+Artículo 167 duodecies. Prescripción de las infracciones y sanciones.
+1. El plazo de prescripción de las infracciones y sanciones establecidas en los artículos anteriores será de tres años para las muy graves, dos años para las graves y seis meses para las leves.
+2. El plazo de prescripción de las infracciones comenzará a contarse desde el día en que la infracción se hubiera cometido. En el caso de infracciones continuadas o permanentes, el plazo comenzará a correr desde que finalizó la conducta infractora.
+3. La prescripción se interrumpirá por la iniciación con conocimiento del interesado, del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable.
+4. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que sea ejecutable la resolución por la que se impone la sanción o haya transcurrido el plazo para recurrirla. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causa no imputable al infractor.
+Se añade por el art. 5.34 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343

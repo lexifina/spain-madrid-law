@@ -1,0 +1,10 @@
+Artículo 30 bis.
+1. Aquellas vías ciclistas que estén adosadas a las carreteras autonómicas, se considerarán elementos funcionales de la misma, siendo por tanto de aplicación la Ley 3/1991, de 7 de marzo, de Carreteras de la Comunidad de Madrid en cuanto a la determinación de la zona de dominio público.
+2. Para el resto de vías ciclistas, son de dominio público, los terrenos ocupados por las vías ciclistas y sus elementos funcionales y una franja de terreno colindante de un metro de anchura, a cada lado de la vía, medidas en horizontal y perpendicularmente al eje de la misma, desde la arista exterior de la explanación.
+La arista exterior de la explanación es la intersección de talud de desmonte del terraplén o, en su caso, de los muros de sostenimiento colindantes con el terreno natural.
+En los casos especiales de puentes, viaductos, túneles, estructuras u obras similares se podrá fijar como arista exterior de la explanación, la línea de proyección ortogonal del borde de las obras sobre el terreno. Será en todo caso de dominio público el suelo ocupado por los soportes de la estructura.
+En los tramos de vías ciclistas que discurran por suelo urbano consolidado, será de dominio público la franja de terreno existente hasta las alineaciones que fije el planeamiento. En caso de no existir alineaciones fijadas, la franja de dominio público será la establecida en el párrafo primero de este apartado.
+3. Se considera elemento funcional de una vía ciclista toda zona permanentemente afecta a la conservación o explotación de la misma tales como las destinadas a servicios de descanso, estacionamiento y otros fines auxiliares o complementarios.
+4. En aquellos supuestos en que la vía ciclista esté dentro del dominio público viario, a efectos de fijar la nueva zona de dominio público se tendrá en cuenta el límite superior resultante de aplicar ambas zonas de dominio público.
+5. Con carácter general, queda expresamente prohibido cualquier tipo de obra, uso o instalación dentro de la zona de dominio público de la vía ciclista.
+Se añade por el art. 4.12 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343

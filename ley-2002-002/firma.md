@@ -411,26 +411,24 @@ Proyectos industriales
 3. Instalaciones para el sacrificio y/o despiece de animales con producción de canales igual o inferior a 10 toneladas al día de media anual.
 4. Elaboración y conservación de pescados y productos a base de pescado, supuestos no incluidos en otros anexos de la presente Ley.
 5. Instalaciones industriales para el envasado y empaquetado de productos alimenticios fabricados por terceros no incluidas en otros epígrafes.
-6. Industrias de las aguas minerales, aguas gaseosas y otras bebidas no alcohólicas, no incluidas en otros epígrafes.
+6. (Suprimido).
 7. Instalaciones industriales para el almacenamiento de productos petrolíferos, petroquímicos o químicos con una capacidad igual o inferior a 200 toneladas.
 8. Fabricación de chapas, tableros contrachapados, alistonados, de partículas aglomeradas, de fibras y otros tableros y paneles no incluidos en otros anexos de esta Ley.
 9. Fabricación de grandes depósitos y caldererías metálicas no incluidos en otros anexos de esta Ley.
 10. Instalaciones de producción y tratamiento de celulosa con una capacidad de producción igual o inferior a 20 toneladas diarias.
-11. Tratamiento de superficies metálicas y materiales plásticos por procedimientos electrolíticos o químicos, cuando el volumen de las cubetas destinadas al tratamiento sea igual o inferior a 10 metros cúbicos.
+11. Tratamiento de superficies metálicas y materiales plásticos por procedimientos electrolíticos o químicos, cuando el volumen de las cubetas destinadas al tratamiento sea igual o inferior a 30 metros cúbicos.
 12. Forja, estampado, embutido, troquelado, corte y repujado de metales no incluidos en otros anexos de esta Ley.
 13. Instalaciones para la fabricación o preparación de materiales de construcción: hormigón, escayola y otros.
 Otros proyectos e instalaciones
 14. Imprentas, centros de reprografía y otras actividades de impresión.
 15. Talleres de reparación y mantenimiento de vehículos automóviles u otro medio de transporte.
-16. Instalaciones base de telecomunicación que operen con radiofrecuencias.
+16. (Suprimido).
 17. Talleres de reparación de maquinaria en general.
 18. Tintorerías y establecimientos similares, no incluidos en otros anexos.
 19. Instalaciones para el alojamiento temporal o recogida de animales y establecimientos destinados a su cría, venta, adiestramiento o doma.
 20. Comercio y distribución al por menor de productos químicos, farmacéuticos, productos de droguería y perfumería, cuando se realicen operaciones de granelado, mezcla o envasado.
 21. Instalaciones para la elaboración de abonos o enmiendas orgánicas con una capacidad inferior a 100 toneladas al año, o para su almacenamiento, cuando la capacidad sea inferior a 100 toneladas.
-22. Instalaciones en las que se realicen prácticas de embalsamamiento y tanatopraxia.
-23. Centros sanitarios asistenciales extrahospitalarios, clínicas veterinarias, médicas, odontológicas y similares.
-24. Laboratorios de análisis clínicos.
+Se suprimen los epígrafes 6, 16, 22 a 24 y se modifica el 11, por el art. 9 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
 Se suprimen los epígrafes 25 y 26 por el art. 20 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
 ANEXO SEXTO
 Áreas especiales
