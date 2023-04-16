@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas la Ley 6/1995, de 28 de marzo, reguladora de las Garantías de los Derechos de la Infancia y la Adolescencia y a la Ley 18/1999, de 29 de abril, reguladora de los Consejos de Atención a la Infancia y a la Adolescencia de la Comunidad de Madrid, así como todas las disposiciones de rango igual o inferior que se opongan a lo que dispone esta Ley.
