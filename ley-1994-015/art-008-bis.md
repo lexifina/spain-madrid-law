@@ -1,0 +1,12 @@
+Artículo 8 bis. Protección a los niños deportistas.
+1. La práctica deportiva de los niños deberá tener como objetivo favorecer la educación integral del niño y el desarrollo armónico de su personalidad y de sus condiciones físicas, así como el fomento de la actividad física como hábito de salud.
+2. La práctica deportiva durante la infancia y la adolescencia potenciará otros aspectos del deporte, aparte del eminentemente competitivo. Asimismo, se adoptarán las medidas necesarias para proteger a los deportistas menores de edad de toda explotación abusiva.
+3. Se establecerán reglamentariamente los criterios y condiciones mínimas de seguridad sobre los equipamientos deportivos dirigidos a la población infantil y adolescente, pistas polideportivas y campos polideportivos, así como las recomendaciones sobre su uso y mantenimiento con el fin de reducir o eliminar los riesgos que producen los accidentes, ya sea por una mala instalación del equipamiento o bien, por un mal uso o mantenimiento del mismo.
+4. Todos los centros deportivos independientemente de su titularidad están obligados a tener protocolos de actuación frente a cualquier forma de violencia contra los niños.
+5. Dichos protocolos se pondrán en marcha ante la detección de indicios por parte de los profesionales y ante la mera revelación de los hechos por parte del niño, en los términos previstos en la legislación vigente.
+6. Las entidades que desarrollen actividades deportivas, de ocio y tiempo libre con niños, en los términos previstos en la legislación vigente, tienen la obligación de:
+a) Establecer un código interno de conducta y protección que permita articular y recoger sistemáticamente las actuaciones que deben seguirse para la prevención, detección y notificación ante posibles situaciones de violencia contra niños y darlo a conocer de forma adecuada tanto a sus usuarios como a las familias de estos.
+b) Fomentar la participación activa de los niños en la planificación y organización de las actividades favoreciendo su autonomía y desarrollo integral.
+c) Fomentar y reforzar las relaciones y la comunicación entre las organizaciones deportivas y los responsables parentales, tutores y familiares.
+d) Promoverán una cultura de confianza mediante la designación de un delegado de protección, al que los niños puedan acudir para expresar sus inquietudes y preocupaciones.
+Se añade por la disposición final 5.2 de la Ley 4/2023, de 22 de marzo. Ref. BOE-A-2023-14347#df-5
