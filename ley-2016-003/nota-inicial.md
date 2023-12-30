@@ -1,0 +1,1 @@
+Esta norma pasa a denorminarse "Ley 3/2016, de 22 de julio, de protección, igualdad efectiva y no discriminación de las personas LGTBI de la Comunidad de Madrid", según establece el art. único.1 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
