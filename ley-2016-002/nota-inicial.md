@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 2/2016, de 29 de marzo, de protección, igualdad efectiva y no discriminación de las personas transexuales e intersexuales de la Comunidad de Madrid", según establece el art. único.1 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
