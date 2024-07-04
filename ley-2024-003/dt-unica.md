@@ -1,0 +1,2 @@
+Disposición transitoria única. Procedimientos iniciados al amparo del artículo 36 de la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid.
+La regulación establecida en la presente ley para las viviendas de protección pública en redes supramunicipales del artículo 36 de la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid, será de aplicación inmediata, pudiendo los interesados solicitar la continuidad de la tramitación ya iniciada y aún no concluida conforme a la legislación vigente en el momento de su aprobación inicial.

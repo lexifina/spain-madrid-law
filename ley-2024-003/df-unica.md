@@ -1,0 +1,2 @@
+Disposición final única. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Comunidad de Madrid», siendo de aplicación directamente y completando, por tanto, las previsiones que al respecto tenga el planeamiento urbanístico vigente en los términos establecidos en la misma.
