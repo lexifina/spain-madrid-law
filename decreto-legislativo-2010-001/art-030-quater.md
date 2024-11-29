@@ -1,5 +1,4 @@
-Artículo 30 quater. Bonificaciones en la cuota íntegra aplicable a los arrendamientos de vivienda.
-1. Los sujetos pasivos podrán aplicar una bonificación del 100 por ciento de la cuota derivada del arrendamiento de viviendas que no se destinen al ejercicio de una actividad empresarial o profesional, siempre que estén en posesión de una copia del resguardo del depósito de la fianza en la Agencia de Vivienda Social de la Comunidad de Madrid formalizado por el arrendador, de acuerdo con lo dispuesto en el artículo 36 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, y en el Decreto 181/1996, de 5 de diciembre, por el que se regula el régimen de depósito de fianzas de arrendamientos en la Comunidad de Madrid, o bien posean copia de la denuncia presentada ante dicho organismo por no haberles entregado dicho justificante el arrendador.
-La bonificación contenida en este artículo sólo resultará aplicable en relación con los contratos de arrendamiento en los que la renta anual pactada sea inferior a 15.000 euros.
-2. Los sujetos pasivos que apliquen la bonificación contenida en el presente artículo no estarán obligados a presentar autoliquidación por el impuesto.
+Artículo 30 quáter. Autoliquidación de los arrendamientos de vivienda.
+Los contribuyentes no estarán obligados a presentar autoliquidación por el impuesto en los supuestos en los que el arrendamiento esté exento en virtud de lo establecido en el artículo 45.I.B.26) del Texto Refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+Se modifica por el art. único.10 de la Ley 5/2024, de 20 de noviembre. Ref. BOE-A-2025-3303
 Se añade por el art. único.17 de la Ley 6/2018, de 19 de diciembre. Ref. BOE-A-2019-4451
