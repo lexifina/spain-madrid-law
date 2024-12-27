@@ -128,7 +128,7 @@ Plazo máximo de duración y efectos del silencio administrativo de los procedim
 7.13 | Autorización de cementerios, tanatorios y empresas funerarias. | Tres meses. | Estimatorio.
 8. | Consejería de Familia y Asuntos Sociales |  | 
 8.1 | Autorización de Centros de Servicios Sociales. | Dos meses. | Estimatorio.
-8.2 | Declaración y calificación del grado de minusvalía. | Tres meses. | Desestimatorio.
+8.2 | Declaración y calificación del grado de discapacidad. | Tres meses. | Desestimatorio.
 8.3 | Acreditación de Instituciones Colaboradoras de Adopción Internacional. | Dos meses. | Estimatorio.
 8.4 | Procedimiento de reconocimiento de grado y nivel de dependencia. | Seis meses. | Desestimatorio.
 8.5 | Procedimiento para la determinación del Programa Individual de Atención (PIA). | Seis meses. | Desestimatorio.
@@ -142,6 +142,7 @@ Plazo máximo de duración y efectos del silencio administrativo de los procedim
 9.1.5 | Inscripción de acuerdos sociales de modificación de estatutos de cooperativas y de otros acuerdos sociales de cooperativas distintos del anterior. | Dos meses. | Estimatorio.
 9.2 | Inscripción de escritura de constitución de Sociedades Cooperativas Madrileñas. | Tres meses. | Estimatorio.
 9.3 | Tramitación de la solicitud de inscripción en el Registro de Asociaciones de Mujeres de la Comunidad de Madrid. | Dos meses. | Estimatorio.
+Se modifica el punto 8.2 por el art. 3 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2025-3304
 Se modifica por el art. 31 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
 Se modifica por el art. 8.2 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181.
 Se modifica por el art. 17 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
