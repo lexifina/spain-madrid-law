@@ -1,9 +1,6 @@
-Artículo 167 quinquies. Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid.
-1. El Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid, dependerá de la Consejería competente en materia de urbanismo y tiene carácter público.
-2. En el Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid se inscribirán de oficio las entidades privadas colaboradoras autorizadas por la Comunidad de Madrid.
-3. Las anotaciones contendrán, como mínimo, los siguientes extremos:
-a) Datos identificativos de la entidad privada colaboradora urbanística.
-b) Alcance de las funciones para las que está acreditada la entidad, conforme al certificado de acreditación.
-c) Extinción y revocación de la autorización, en su caso.
-d) Modificaciones que se produzcan en la autorización, ampliando o reduciendo las actividades que puede realizar la entidad colaboradora, en su caso.
+Artículo 167 quinquies. Efectos de la inscripción en el Registro de entidades privadas colaboradoras urbanísticas e intervención de las entidades.
+1. Las entidades inscritas en el Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid, podrán desarrollar su actividad en todo el territorio de la Comunidad de Madrid, salvo en el supuesto previsto en el artículo 164.3 de esta ley.
+2. Las entidades colaboradoras, una vez inscritas, podrán ejercer sus funciones en los términos previstos en el artículo 166 de esta ley. En aquellos municipios que cuenten con un régimen propio de entidades colaboradoras deberán igualmente ajustarse al mismo.
+3. A las entidades inscritas en el registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid, les será de aplicación el régimen sancionador previsto en este capítulo.
+Se modifica por el art. 2.40 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
 Se añade por el art. 5.27 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343

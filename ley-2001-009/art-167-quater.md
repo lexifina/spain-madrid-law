@@ -1,11 +1,10 @@
-Artículo 167 quater. Autorización administrativa.
-1. Para actuar en el ámbito de la Comunidad de Madrid, la entidad privada colaboradora urbanística deberá obtener la autorización de la Comunidad de Madrid.
-2. La solicitud de autorización se dirigirá a la Consejería competente en materia de urbanismo, que será la encargada de adoptar su resolución dentro del mes siguiente a la presentación de la correspondiente solicitud. Transcurrido aquel plazo sin que se haya notificado la resolución, se entenderá desestimada la solicitud.
-3. Para obtener la autorización administrativa deberán aportarse junto con la solicitud los siguientes documentos:
-a) Estatutos o normas por la que se rija la entidad.
-b) Certificado de acreditación emitido por la Entidad Nacional de Acreditación, por el que se acredita el cumplimiento de los requisitos establecidos en la norma UNE-EN ISO/IEC 17020.
-c) Acreditación de contar con un procedimiento gratuito de reclamaciones que garantice a los interesados la adecuada defensa de sus derechos e intereses legítimos.
-d) Declaración de disponer de un sistema de atención al cliente que garantice la atención en todo el ámbito territorial de la Comunidad de Madrid.
-4. La resolución por la que se conceda la autorización se inscribirá de oficio en el Registro de Entidades Privadas de Colaboración Urbanística de la Comunidad de Madrid.
-5. La autorización quedará sin efecto en el supuesto en el que la entidad pierda alguno de los requisitos recogidos en la presente Ley. La autorización tendrá la misma vigencia que la acreditación que le dio lugar, pudiendo ser suspendida o extinguida en los casos contemplados en la presente Ley.
+Artículo 167 quater. Procedimiento para la inscripción en el Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid.
+1. Para actuar como entidad privada colaboradora urbanística en el ámbito de la Comunidad de Madrid, la entidad deberá inscribirse en el Registro previsto en el artículo 167 bis.
+2. La solicitud de inscripción se dirigirá a la consejería competente en materia ordenación del territorio y urbanismo, que será la encargada de adoptar la resolución de inscripción dentro del mes siguiente a la presentación de la correspondiente solicitud. Transcurrido aquel plazo sin que se haya notificado la resolución de inscripción, se entenderá desestimada la solicitud.
+3. Para obtener la inscripción en el Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid, los interesados deberán aportar junto con la solicitud los siguientes documentos:
+a) Estatutos o normas por la que se rija la entidad, inscritos en el registro público correspondiente.
+b) Certificado de acreditación emitido por la Entidad Nacional de Acreditación, por el que se acredita el cumplimiento de los requisitos establecidos en la norma UNE-EN 38 ISO/IEC 17020, o norma que la sustituya. El certificado deberá acompañarse de la documentación técnica exigida para su validez.
+c) Declaración de la entidad en la que manifieste el cumplimiento de todos los requisitos previstos en el artículo 167 ter, que dispone de la documentación que así lo acredita y el compromiso de mantener su cumplimiento durante la vigencia de la inscripción.
+4. El órgano de la consejería competente en materia de ordenación del territorio y urbanismo que tenga atribuida la gestión del Registro podrá, en cualquier momento, solicitar a la entidad la documentación precisa para comprobar el cumplimiento de los requisitos exigidos para la inscripción.
+Se modifica por el art. 2.39 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
 Se añade por el art. 5.26 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
