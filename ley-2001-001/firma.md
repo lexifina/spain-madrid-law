@@ -33,7 +33,7 @@ Plazo máximo de duración y efectos del silencio administrativo de los procedim
 2.12 | Autorización y/o aprobación de ordenanzas especiales y normas reguladoras de las formas de aprovechamiento de los bienes comunales de las entidades locales. | Seis meses. | Desestimatorio.
 2.13 | Autorización de espectáculos y actividades recreativas extraordinarias. | Cinco días. | Desestimatorio.
 2.14 | Ampliación de horario de espectáculos y actividades recreativas. | Cuatro meses. | Desestimatorio.
-2.15 | Autorización de festejos taurinos populares. | Dos días. | Desestimatorio.
+2.15 | Autorización de espectáculos y actividades taurinas que se llevan a cabo con presencia de público. | Diez días. | Desestimatorio.
 2.16 | Registro de uniones de hecho. | Quince días. | Desestimatorio.
 2.17 | Autorizaciones para instalar máquinas recreativas con premio programado en bares y cafeterías. | Dos meses. | Estimatorio.
 2.18 | Autorización de locales destinados a establecimientos de juegos colectivos de dinero y azar. | Tres meses. | Estimatorio.
@@ -43,6 +43,7 @@ Plazo máximo de duración y efectos del silencio administrativo de los procedim
 2.22 | Homologación de máquinas recreativas de juego y azar. | Seis meses. | Desestimatorio.
 2.23 | Homologación de sistemas técnicos para la práctica de juegos y apuestas de carácter presencial o a distancia. | Seis meses. | Desestimatorio.
 2.24 | Homologación de sistemas técnicos de interconexión, de medios de pago y de control de acceso a establecimientos de juego. | Seis meses. | Desestimatorio.
+2.25 | Obtención y renovación de la acreditación de la actividad de control de acceso a espectáculos y actividades recreativas. | Tres meses. | Desestimatorio.
 3. | Consejería de Economía y Hacienda. |  | Desestimatorio.
 3.1 | (Sin contenido). |  | 
 3.2 | (Sin contenido). |  | 
@@ -142,6 +143,7 @@ Plazo máximo de duración y efectos del silencio administrativo de los procedim
 9.1.5 | Inscripción de acuerdos sociales de modificación de estatutos de cooperativas y de otros acuerdos sociales de cooperativas distintos del anterior. | Dos meses. | Estimatorio.
 9.2 | Inscripción de escritura de constitución de Sociedades Cooperativas Madrileñas. | Tres meses. | Estimatorio.
 9.3 | Tramitación de la solicitud de inscripción en el Registro de Asociaciones de Mujeres de la Comunidad de Madrid. | Dos meses. | Estimatorio.
+Se modifica el punto 2.15 y se añade el 2.25 por la disposición final 1 de la Ley 8/2024, de 26 de diciembre. Ref. BOE-A-2025-5523
 Se modifica el punto 8.2 por el art. 3 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2025-3304
 Se modifica por el art. 31 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
 Se modifica por el art. 8.2 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181.

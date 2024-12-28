@@ -7,8 +7,8 @@ Tienen personalidad jurídica propia y capacidad de obrar plena e independiente 
 3. Su régimen jurídico será el establecido en sus estatutos, que deberán respetar, en todo caso, lo dispuesto en la normativa básica estatal que resulte aplicable, en la presente Ley y en sus disposiciones de desarrollo.
 4. La asociación de un municipio a una mancomunidad de interés general no podrá afectar a la totalidad de competencias y funciones municipales. El municipio ejercerá por sí mismo aquéllas no incluidas en los estatutos de las mancomunidades de interés general.
 5. Para ser calificadas como mancomunidades de interés general y para conservar la calificación como tal, las mancomunidades deberán cumplir los siguientes requisitos:
-a) Estar integrada por municipios con población igual o inferior a 20.000 habitantes.
-b) Poseer plantilla de personal propio al servicio de la mancomunidad, con dedicación plena a ella. La mancomunidad de interés general deberá cumplir los requisitos que en materia de personal se establecen en el apartado 4 del artículo 74 ter.
+a) (Suprimida)
+b) Poseer plantilla de personal propio al servicio de la mancomunidad, con dedicación plena a ella.
 c) Incluirse en un ámbito geográfico continuo la totalidad de los términos de los municipios que la integren.
 d) Compartir entre sí los municipios incorporados a ellas una identidad cultural, geográfica, económica o histórica sustancialmente común y homogénea.
 e) Estar formada por al menos diez municipios que no formen parte de otra mancomunidad que haya sido declarada como mancomunidad de interés general. En este sentido, la incorporación a una mancomunidad de interés general exigirá la completa y previa separación del municipio de cualquier otra en que, con idéntica calificación, estuviera asociado.
@@ -26,4 +26,5 @@ f) Prestar efectivamente servicios al menos a la mitad de los municipios o a un 
 11.a Prestar el apoyo o asistencia técnica en materia de policía local a las asociaciones de municipios o municipios que lo soliciten, conforme a la legislación vigente.
 6. A las mancomunidades de interés general solo podrán incorporarse municipios cuyo territorio se encuentre en la Comunidad de Madrid.
 7. Tendrá una sola sede como centro independiente y de referencia de todo el ámbito de la Mancomunidad.
+Se suprime la letra a) y se modifica la b) en el apartado 5 por el art. 2.1 y 2 de la Ley 8/2024, de 26 de diciembre. Ref. BOE-A-2025-5523
 Se añade por el art. 16.1 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
