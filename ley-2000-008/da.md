@@ -1,2 +1,3 @@
 Disposición adicional.
-La presente Ley será igualmente de aplicación a los Gerentes y Directores-Gerentes de las Empresas públicas con forma de Entidad de Derecho público de la Comunidad de Madrid, de la Agencia de Protección de Datos y del Instituto de Realojamiento e Integración Social, cuando tengan reconocidas unas retribuciones inferiores a las previstas en esta Ley para Director General, en cuyo caso, se homologarán también a las de éste.
+La presente Ley será igualmente de aplicación al puesto de Director-Gerente de la empresa pública con forma de entidad de derecho público Canal de Isabel II, cuyas retribuciones se homologarán a las de Director General.
+Se modifica por la disposición final 2 de la Ley 9/2024, de 26 de diciembre. Ref. BOE-A-2025-5524
