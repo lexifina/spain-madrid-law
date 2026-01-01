@@ -1,4 +1,10 @@
-Artículo 4 bis.
-Los órganos competentes que propongan el establecimiento de subvenciones, con carácter previo, deberán concretar en un plan estratégico de subvenciones los objetivos y efectos que se pretenden con su aplicación, el plazo necesario para su consecución, los costes previsibles y sus fuentes de financiación, supeditándose en todo caso al cumplimiento de los objetivos de estabilidad presupuestaria.
+Artículo 4 bis. Planes estratégicos.
+1. Los órganos competentes que propongan el establecimiento de subvenciones, con carácter previo, deberán concretar en un plan estratégico de subvenciones los objetivos y efectos que se pretenden con su aplicación, el plazo necesario para su consecución, los costes previsibles y sus fuentes de financiación, supeditándose en todo caso al cumplimiento de los objetivos de estabilidad presupuestaria.
+Las bases reguladoras de cada subvención harán referencia al plan estratégico de subvenciones en el que se integran, señalando de qué modo contribuyen al logro de sus objetivos; en otro caso, deberá motivarse por qué es necesario establecer la nueva subvención, incluso aun no habiendo sido prevista en el plan, y la forma en que afecta a su cumplimiento, sin perjuicio de su inclusión posterior en el plan estratégico que corresponda.
 Cuando los objetivos que se pretendan conseguir afecten al mercado, su orientación debe dirigirse a corregir fallos claramente identificados y sus efectos deben ser mínimamente distorsionadores.
+2. Se aprobará un plan estratégico para cada Consejería, que abarcará las subvenciones tanto de sus órganos como de los organismos y demás entes públicos a él vinculados.
+No obstante, se podrán aprobar planes estratégicos especiales, de ámbito inferior al de la Consejería, cuando su importancia justifique su desarrollo particularizado, o planes estratégicos conjuntos, cuando en su gestión participen varias Consejerías u organismos de distinto ámbito competencial.
+3. Los planes y programas sectoriales tendrán la consideración de planes estratégicos de subvenciones siempre que recojan el contenido a que se hace referencia en el artículo siguiente.
+4. Los planes estratégicos contendrán previsiones para un periodo de vigencia de tres años, salvo que, por la especial naturaleza del sector afectado, sea conveniente establecer un plan estratégico de duración diferente.
+Se modifica por la disposición final 3.5 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df-3
 Se añade por el art. 10.2 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
