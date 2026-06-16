@@ -1,0 +1,4 @@
+Artículo cuarto. Modificación de la Ley 3/1991, de 7 de marzo, de Carreteras de la Comunidad de Madrid.
+La Ley 3/1991, de 7 de marzo, de Carreteras de la Comunidad de Madrid, queda modificada como sigue:
+Se modifica el apartado 2 del artículo 22, que queda redactado como sigue:
+«2. Con posterioridad a la aprobación inicial de los instrumentos de planeamiento urbanístico y de ordenación territorial, estos habrán de someterse a informe de la dirección general competente en materia de carreteras. Dicho informe se solicitará una sola vez y será vinculante en lo referido a posibles afecciones en esta materia, pudiendo continuarse con la tramitación del procedimiento si no es emitido en el plazo de tres meses desde la recepción de la documentación completa, salvo que afecte al dominio público. En caso de ser desfavorable, el informe expresará motivadamente las cuestiones respecto de las cuales dicho carácter desfavorable resulta vinculante.»
