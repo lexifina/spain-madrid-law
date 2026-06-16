@@ -5,7 +5,8 @@ a) la delimitación, ordenación y protección de los paisajes y espacios natura
 b) la prevención de riesgos naturales o tecnológicos previsibles;
 c) la protección del patrimonio cultural, arqueológico y arquitectónico regional;
 d) la ordenación de la movilidad, infraestructuras básicas y redes de energía y comunicaciones de carácter supralocal de conformidad con la legislación sectorial vigente;
-e) la cohesión y el equilibrio territorial en materia de alojamiento, dotaciones y equipamientos de carácter supralocal;
+e) la cohesión y el equilibrio territorial en materia de alojamiento, vivienda, dotaciones y equipamientos de carácter supralocal;
 f) el desarrollo del turismo, la agricultura u otras actividades económicas con repercusión territorial de naturaleza supralocal;
 g) la definición de la red de infraestructuras regional de corredores ecológicos, espacios verdes y espacios libres de urbanización para conexión y protección de los ecosistemas naturales.
+Se modifica el apartado 2.e) por el art. 3.1 de la Ley 2/2026, de 11 de junio. Ref. BOE-A-2026-16360
 Se añade por el art. 1.2 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
