@@ -1,0 +1,2 @@
+Disposición transitoria única. Régimen aplicable a las solicitudes en curso.
+Será de aplicación la asimilación del concebido no nacido al hijo ya nacido, con el alcance y las condiciones que se regulen en cada procedimiento concreto, a las solicitudes que se hayan presentado con anterioridad a la entrada en vigor de la ley y sobre las que no haya recaído resolución definitiva, debiendo aportarse en todo caso el informe indicado en el artículo 3.
