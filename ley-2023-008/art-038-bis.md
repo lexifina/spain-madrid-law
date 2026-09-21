@@ -1,4 +1,6 @@
 Artículo 38 bis. Acción popular.
 1. La Comunidad de Madrid podrá ejercer la acción popular en los procesos penales seguidos por delitos de especial gravedad sobre el patrimonio histórico de interés para la Comunidad de Madrid, en la forma y condiciones establecidas por la legislación procesal y por esta ley.
 2. En los casos en que proceda, la Comunidad de Madrid podrá ejercer otras acciones en los términos regulados en la legislación procesal.
+Téngase en cuenta que se suspende la vigencia y aplicación de este artículo, en la redacción dada por la Ley 1/2026, de 15 de abril, desde el 16 de julio de 2026 para las partes en el proceso y desde el 21 de septiembre de 2026 para los terceros, por providencia del TC de 8 de septiembre de 2026 que admite a trámite el recurso de inconstitucionalidad nº 5465-2026. Ref. BOE-A-2026-19522
+Se suspende la vigencia y aplicación de este artículo, en la redacción dada por la Ley 1/2026, de 15 de abril, desde el 16 de julio de 2026 para las partes en el proceso y desde el 21 de septiembre de 2026 para los terceros, por providencia del TC de 8 de septiembre de 2026 que admite a trámite el recurso de inconstitucionalidad nº 5465-2026. Ref. BOE-A-2026-19522
 Se añade por el art. 3 de la Ley 1/2026, de 15 de abril. Ref. BOE-A-2026-10120
