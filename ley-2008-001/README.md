@@ -1,0 +1,17 @@
+# Ley 1/2008, de 26 de junio, de Modernización del Comercio de la Comunidad de Madrid.
+
+Ley 1/2008, de 26 de junio · 1 versions, from 2008-07-12 (latest in force: 2008-07-12) · <https://www.boe.es/buscar/act.php?id=BOE-A-2008-15147>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo primero | [b-aprimero.md](b-aprimero.md) | 0 |  |
+| Artículo segundo | [b-asegundo.md](b-asegundo.md) | 0 |  |
+| Artículo tercero | [b-atercero.md](b-atercero.md) | 0 |  |
+| Disposición derogatoria única | [dd-unica.md](dd-unica.md) | 0 |  |
+| Disposición final única | [df-unica.md](df-unica.md) | 0 |  |
+| Disposición transitoria primera | [dt-01.md](dt-01.md) | 0 |  |
+| Disposición transitoria segunda | [dt-02.md](dt-02.md) | 0 |  |
+| Disposición transitoria tercera | [dt-03.md](dt-03.md) | 0 |  |
+| Disposición transitoria cuarta | [dt-04.md](dt-04.md) | 0 |  |
+| Firma | [firma.md](firma.md) | 0 |  |
+| Preámbulo | [preambulo.md](preambulo.md) | 0 |  |
