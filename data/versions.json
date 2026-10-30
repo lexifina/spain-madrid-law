@@ -6546,6 +6546,26 @@
      "sha256": "d64b705fb39778648218120035ac98572fefc1025d73797c4640d68719616db1"
     }
    ]
+  },
+  {
+   "slug": "ley-1998-016",
+   "short": "Ley 16/1998, de 27 de octubre",
+   "title": "Ley 16/1998, de 27 de octubre, de Creación del Instituto de Realojamiento e Integración Social.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-5470",
+   "versions": [
+    {
+     "from": "1998-10-31",
+     "units": 26,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-5470",
+     "sha256": "5b6402ef86d2b3fe57eacf8eb6ecf81bb599ff5362ba135609efa8d1379ccc8b"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-5470",
+     "sha256": "5b6402ef86d2b3fe57eacf8eb6ecf81bb599ff5362ba135609efa8d1379ccc8b"
+    }
+   ]
   }
  ]
 }

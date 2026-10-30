@@ -10,7 +10,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 
 ## What this repository holds
 
-183 norms with 848 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 24 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
+184 norms with 849 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 25 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
 
 | Folder | Norm | Versions | History | BOE last updated |
 | --- | --- | ---: | --- | --- |
@@ -92,7 +92,6 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-2002-001/` | Ley 1/2002, de 27 de marzo, por la que se crea el Cuerpo de Agentes Forestales de la Comunidad de Madrid. | 2 | as first published, then each change: 5 April 2002 to 23 December 2022 | 2025-12-18 |
 | `ley-2002-002/` | Ley 2/2002, de 19 de junio, de Evaluación Ambiental de la Comunidad de Madrid. | 7 | as first published, then each change: 2 July 2002 to 28 December 2024 | 2025-12-18 |
 | `ley-2002-005/` | Ley 5/2002, de 27 de junio, sobre Drogodependencias y otros Trastornos Adictivos. | 11 | as first published, then each change: 28 July 2002 to 28 December 2015 | 2025-12-18 |
-| `decreto-legislativo-2002-001/` | Decreto Legislativo 1/2002, de 24 de octubre, por el que se aprueba el texto refundido de la Ley de Tasas y Precios Públicos de la Comunidad de Madrid. | 25 | as first published, then each change: 30 October 2002 to 1 January 2026 | 2026-02-12 |
 | `ley-2002-008/` | Ley 8/2002, de 27 de noviembre, de Juventud de la Comunidad de Madrid. | 2 | as first published, then each change: 6 December 2002 to 27 December 2024 | 2025-12-18 |
 | `ley-2002-009/` | Ley 9/2002, de 11 de diciembre, de Creación del Colegio Profesional de Higienistas Dentales de la Comunidad de Madrid. | 1 | as first published: 21 December 2002 | 2025-12-18 |
 | `ley-2002-012/` | Ley 12/2002, de 18 de diciembre, de los Consejos Sociales de las Universidades Públicas de la Comunidad de Madrid. | 2 | as first published, then each change: 23 December 2002 to 1 January 2014 | 2025-12-18 |
@@ -182,7 +181,6 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-1992-004/` | Ley 4/1992, de 8 de julio, de Coordinación de Policías Locales. | 9 | as first published, then each change: 21 July 1992 to 1 April 2018; **repealed** 1 April 2018 by Ley 1/2018, de 22 de febrero (BOE-A-2018-7516) | 2026-05-18 |
 | `ley-1993-004/` | Ley 4/1993, de 21 de abril, de Archivos y Patrimonio Documental de la Comunidad de Madrid. | 2 | as first published, then each change: 30 April 1993 to 12 May 2023; **repealed** 12 May 2023 by Ley 6/2023, de 30 de marzo (BOE-A-2023-15468) | 2025-12-17 |
 | `ley-1995-004/` | Ley 4/1995, de 21 de marzo, de creación de la Agencia Madrileña para la Tutela de Adultos. | 4 | oldest version available, then each change: 28 March 1995 to 18 February 2023; **repealed** 18 February 2023 by Ley 1/2023, de 15 de febrero (BOE-A-2023-13671) | 2025-12-18 |
-| `ley-1995-006/` | Ley 6/1995, de 28 de marzo, de Garantías de los Derechos de la Infancia y la Adolescencia en la Comunidad de Madrid. | 10 | as first published, then each change: 7 April 1995 to 16 April 2023; **repealed** 16 April 2023 by Ley 4/2023, de 22 de marzo (BOE-A-2023-14347) | 2025-12-18 |
 | `ley-1996-012/` | Ley 12/1996, de 19 de diciembre, de Ayuda a las Víctimas del Terrorismo. | 3 | as first published, then each change: 1 January 1997 to 26 October 2018; **repealed** 26 October 2018 by Ley 5/2018, de 17 de octubre (BOE-A-2018-16540) | 2025-12-18 |
 | `ley-1998-019/` | Ley 19/1998, de 25 de noviembre, de Ordenación y Atención Farmacéutica de la Comunidad de Madrid. | 6 | as first published, then each change: 3 December 1998 to 23 December 2022; **repealed** 23 December 2022 by Ley 13/2022, de 21 de diciembre (BOE-A-2023-13539) | 2025-12-18 |
 | `ley-1999-004/` | Ley 4/1999, de 30 de marzo, de Cooperativas de la Comunidad de Madrid. | 6 | as first published, then each change: 13 June 1999 to 28 April 2023; **repealed** 28 April 2023 by Ley 2/2023, de 24 de febrero (BOE-A-2023-13672) | 2025-12-18 |
@@ -197,6 +195,9 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-2012-005/` | Ley 5/2012, de 20 de diciembre, de Viviendas Rurales Sostenibles. | 2 | as first published, then each change: 28 December 2012 to 15 April 2016; **repealed** 15 April 2016 by Ley 1/2016, de 29 de marzo (BOE-A-2016-6727) | 2025-12-19 |
 | `ley-2013-003/` | Ley 3/2013, de 18 de junio, de Patrimonio Histórico de la Comunidad de Madrid. | 10 | as first published, then each change: 20 June 2013 to 13 April 2023; **repealed** 13 April 2023 by Ley 8/2023, de 30 de marzo (BOE-A-2023-18316) | 2025-12-19 |
 | `ley-2017-008/` | Ley 8/2017, de 27 de junio, de creación del Consejo de la Juventud de la Comunidad de Madrid. | 2 | as first published, then each change: 12 July 2017 to 28 December 2024; **repealed** 28 December 2024 by Ley 8/2024, de 26 de diciembre (BOE-A-2025-5523) | 2025-12-19 |
+| `decreto-legislativo-2002-001/` | Decreto Legislativo 1/2002, de 24 de octubre, por el que se aprueba el texto refundido de la Ley de Tasas y Precios Públicos de la Comunidad de Madrid. | 25 | as first published, then each change: 30 October 2002 to 1 January 2026 | 2026-02-12 |
+| `ley-1995-006/` | Ley 6/1995, de 28 de marzo, de Garantías de los Derechos de la Infancia y la Adolescencia en la Comunidad de Madrid. | 9 | as first published, then each change: 7 April 1995 to 16 April 2023; **repealed** 16 April 2023 by boe-a-2023-14347 | 2025-12-18 |
+| `ley-1998-016/` | Ley 16/1998, de 27 de octubre, de Creación del Instituto de Realojamiento e Integración Social. | 2 | as first published, then each change: 31 October 1998 to 1 January 2016; **repealed** 1 January 2016 by Ley 1/1993, de 14 de enero (BOE-A-1993-6501) | 2026-11-04 |
 
 ## Source
 

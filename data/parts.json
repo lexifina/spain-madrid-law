@@ -224,6 +224,12 @@
     "ley-1995-006"
    ],
    "sha256": "d7ea2c4870a426e2535a321bd4f23185e33cd901ccd447288cd2d387db1e682e"
+  },
+  "97-derogadas-20261105-01.json": {
+   "acts": [
+    "ley-1998-016"
+   ],
+   "sha256": "35cf3c6c1d6d85fbfb932e249de0bf59f950192ab516dfb29f1174ebc1adb907"
   }
  },
  "schema": 1
