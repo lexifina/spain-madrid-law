@@ -182,7 +182,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-1992-004` | Ley 4/1992, de 8 de julio, de Coordinación de Policías Locales. | 9 | 1992-07-21 to 2018-04-01 |
 | `ley-1993-004` | Ley 4/1993, de 21 de abril, de Archivos y Patrimonio Documental de la Comunidad de Madrid. | 2 | 1993-04-30 to 2023-05-12 |
 | `ley-1995-004` | Ley 4/1995, de 21 de marzo, de creación de la Agencia Madrileña para la Tutela de Adultos. | 4 | 1995-03-28 to 2023-02-18 |
-| `ley-1995-006` | Ley 6/1995, de 28 de marzo, de Garantías de los Derechos de la Infancia y la Adolescencia en la Comunidad de Madrid. | 10 | 1995-04-07 to 2023-04-16 |
+| `ley-1995-006` | Ley 6/1995, de 28 de marzo, de Garantías de los Derechos de la Infancia y la Adolescencia en la Comunidad de Madrid. | 9 | 1995-04-07 to 2023-04-16 |
 | `ley-1996-012` | Ley 12/1996, de 19 de diciembre, de Ayuda a las Víctimas del Terrorismo. | 3 | 1997-01-01 to 2018-10-26 |
 | `ley-1998-019` | Ley 19/1998, de 25 de noviembre, de Ordenación y Atención Farmacéutica de la Comunidad de Madrid. | 6 | 1998-12-03 to 2022-12-23 |
 | `ley-1999-004` | Ley 4/1999, de 30 de marzo, de Cooperativas de la Comunidad de Madrid. | 6 | 1999-06-13 to 2023-04-28 |
@@ -198,7 +198,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-2013-003` | Ley 3/2013, de 18 de junio, de Patrimonio Histórico de la Comunidad de Madrid. | 10 | 2013-06-20 to 2023-04-13 |
 | `ley-2017-008` | Ley 8/2017, de 27 de junio, de creación del Consejo de la Juventud de la Comunidad de Madrid. | 2 | 2017-07-12 to 2024-12-28 |
 
-The build made 449 commits:
+The build made 453 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -222,15 +222,15 @@ When a law gives no date of its own, the default rule applies: Each version take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5315a5b63ff400844869d798e327352ec1fdef4ece6a0c970b5239b7875fcf92` (19329262 bytes).
+- Corpus: sha256 `75a16ef4c08c2681dad1d32a1c030d221bdcde6183b82cac6a75ddc135225936` (20628830 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-848 versions of 183 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 444 history commits and 1208 tags (history tip `d7eb0ff263a92d6b87fc0aae76785b7e62fb21e1`).
 
 ## Decisions made by hand
 
@@ -242,6 +242,8 @@ No second build of this corpus has been compared yet.
 - Included: the Estatuto de Autonomía (an Estatal Ley Orgánica), then the unit's Autonómico norms the BOE consolidates and marks as not exhausted (vigencia_agotada N), oldest first.
 - An act's first commit is its first publication when every block of its earliest version comes from the act itself; otherwise it is the oldest version the BOE holds, naming the norms in it.
 - Repealed norms: the unit's Autonómico norms the BOE consolidates and marks as repealed as a whole (estatus_derogacion S) are included with their whole consolidated history. Their last commit removes every file on the day the repeal took effect (the BOE's fecha_derogacion), credited to the repealing norm the BOE names on its repeal note ("Norma derogada, con efectos ...") and in its "SE DEROGA" reference; the note itself is that commit's reason, not a version. Norms whose force ran out without a repeal (vigencia agotada), annulled norms, and repealed norms whose BOE record is not consistent (no repeal day, no single repeal note, or text versions on or after the repeal day) are left out.
+- A6 date-only correction for decreto-legislativo-2002-001: Ley 9/2010, BOE-A-2011-8629, final disposition four says 1 January 2011; its BOE block for article 214 says 2010-01-01, before the law was made on 2010-12-23. Legal text copied unchanged from 31-normas-02.json.
+- A6 date-only correction for ley-1995-006: Ley 17/1997, BOE-A-1998-9648, was made on 1997-07-04; its additional disposition two and initial BOE vigencia are 1997-07-07, while the amended article 31 block says 1997-04-07. Legal text copied unchanged from 60-derogadas-01.json.
 
 ## What AI did and did not do
 

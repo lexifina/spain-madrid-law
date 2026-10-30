@@ -218,7 +218,7 @@ Decreto Legislativo 1/2002, de 24 de octubre · 25 versions, from 2002-10-30 (la
 | Artículo 211 | [art-211.md](art-211.md) | 1 | 2011-01-01 |
 | Artículo 212 | [art-212.md](art-212.md) | 1 | 2011-01-01 |
 | Artículo 213 | [art-213.md](art-213.md) | 1 | 2011-01-01 |
-| Artículo 214 | [art-214.md](art-214.md) | 1 | 2010-01-01 |
+| Artículo 214 | [art-214.md](art-214.md) | 1 | 2011-01-01 |
 | Artículo 215 | [art-215.md](art-215.md) | 1 | 2011-01-01 |
 | Artículo 216 | [art-216.md](art-216.md) | 1 | 2011-01-01 |
 | Artículo 217 | [art-217.md](art-217.md) | 0 |  |

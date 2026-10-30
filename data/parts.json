@@ -212,6 +212,18 @@
     "ley-2017-008"
    ],
    "sha256": "d173550a0cec5a293adccaa9c67b2baa3646b0ff2308db1265e0eee9e638db90"
+  },
+  "90-date-sanity-a6-31.json": {
+   "acts": [
+    "decreto-legislativo-2002-001"
+   ],
+   "sha256": "f63f1218979e16ed0b88e9fe1c9d1202beba27e2fb02a9ae05777403d1b226c6"
+  },
+  "90-date-sanity-a6-60.json": {
+   "acts": [
+    "ley-1995-006"
+   ],
+   "sha256": "d7ea2c4870a426e2535a321bd4f23185e33cd901ccd447288cd2d387db1e682e"
   }
  },
  "schema": 1
