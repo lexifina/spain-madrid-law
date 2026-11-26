@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T06:30:02Z",
+ "generated": "2026-11-26T06:34:42Z",
  "latest": {
   "boe-autonomico|spain/madrid/acts": {
    "attempt": 1,
@@ -26,11 +26,11 @@
     "repo": 184,
     "source_in_scope": 187
    },
-   "check_id": "es-boe-autonomico-20261125T062621Z",
+   "check_id": "es-boe-autonomico-20261126T063048Z",
    "commits": null,
    "corpus": "spain/madrid/acts",
    "error": null,
-   "finished": "2026-11-25T06:26:53Z",
+   "finished": "2026-11-26T06:31:22Z",
    "flags": [
     {
      "detail": "1 norms new or updated at the BOE over 7 days ago are not here in that form after this check's update",
@@ -38,7 +38,7 @@
     }
    ],
    "gap": 4,
-   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 05:24 UTC for the 20 Spanish corpora (check es-boe-estatal-20261125T052409Z); this repository's data run to 2026-11-04; 3 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "note": "the BOE's list of 12482 consolidated norms (8858 Estatal, 3624 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261126T052734Z); this repository's data run to 2026-11-04; 3 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -53,9 +53,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-24T12:36:43Z",
+   "snapshot": "2026-11-25T14:14:13Z",
    "source": "boe-autonomico",
-   "started": "2026-11-25T06:26:21Z",
+   "started": "2026-11-26T06:30:48Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
